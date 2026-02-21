@@ -1,0 +1,18 @@
+current directory: /home/andrew/Documents/mysite/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/andrew/Documents/mysite/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260221-30906-1aif5m sitelibdir\=./.gem.20260221-30906-1aif5m clean
+
+current directory: /home/andrew/Documents/mysite/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260221-30906-1aif5m sitelibdir\=./.gem.20260221-30906-1aif5m
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/andrew/Documents/mysite/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260221-30906-1aif5m sitelibdir\=./.gem.20260221-30906-1aif5m install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20260221-30906-1aif5m/racc
+
+current directory: /home/andrew/Documents/mysite/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260221-30906-1aif5m sitelibdir\=./.gem.20260221-30906-1aif5m clean
